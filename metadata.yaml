@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39962'
     url: http://www.gutenberg.org/2009/agents/39962
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39320#Trait--des-eunuques
 gutenberg_bookshelf: FR Droit et Justice
 gutenberg_issued: '2012-03-31'
 gutenberg_type: Text
